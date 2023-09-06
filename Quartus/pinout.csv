@@ -1,0 +1,96 @@
+# Copyright (C) 2023  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+# File: C:\Users\Tal Shvartzberg\Desktop\Hardware projects\ModelSim\projects\FinalProject\QuartusProject\output_files\pinout.csv
+# Generated on: Sun Jul 30 16:27:03 2023
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+altera_reserved_tck,Input,,,,PIN_AC5,,,,,,,,,,,,,,
+altera_reserved_tdi,Input,,,,PIN_U8,,,,,,,,,,,,,,
+altera_reserved_tdo,Output,,,,PIN_AB9,,,,,,,,,,,,,,
+altera_reserved_tms,Input,,,,PIN_V9,,,,,,,,,,,,,,
+clk,Input,PIN_AF14,3B,B3B_N0,PIN_AF14,2.5 V,,,,,,,,,,,,,
+Hex0[6],Output,PIN_AH18,4A,B4A_N0,PIN_AH18,2.5 V,,,,,,,,,,,,,
+Hex0[5],Output,PIN_AG18,4A,B4A_N0,PIN_AG18,2.5 V,,,,,,,,,,,,,
+Hex0[4],Output,PIN_AH17,4A,B4A_N0,PIN_AH17,2.5 V,,,,,,,,,,,,,
+Hex0[3],Output,PIN_AG16,4A,B4A_N0,PIN_AG16,2.5 V,,,,,,,,,,,,,
+Hex0[2],Output,PIN_AG17,4A,B4A_N0,PIN_AG17,2.5 V,,,,,,,,,,,,,
+Hex0[1],Output,PIN_V18,4A,B4A_N0,PIN_V18,2.5 V,,,,,,,,,,,,,
+Hex0[0],Output,PIN_W17,4A,B4A_N0,PIN_W17,2.5 V,,,,,,,,,,,,,
+Hex1[6],Output,PIN_V17,4A,B4A_N0,PIN_V17,2.5 V,,,,,,,,,,,,,
+Hex1[5],Output,PIN_AE17,4A,B4A_N0,PIN_AE17,2.5 V,,,,,,,,,,,,,
+Hex1[4],Output,PIN_AE18,4A,B4A_N0,PIN_AE18,2.5 V,,,,,,,,,,,,,
+Hex1[3],Output,PIN_AD17,4A,B4A_N0,PIN_AD17,2.5 V,,,,,,,,,,,,,
+Hex1[2],Output,PIN_AE16,4A,B4A_N0,PIN_AE16,2.5 V,,,,,,,,,,,,,
+Hex1[1],Output,PIN_V16,4A,B4A_N0,PIN_V16,2.5 V,,,,,,,,,,,,,
+Hex1[0],Output,PIN_AF16,4A,B4A_N0,PIN_AF16,2.5 V,,,,,,,,,,,,,
+Hex2[6],Output,PIN_W16,4A,B4A_N0,PIN_W16,2.5 V,,,,,,,,,,,,,
+Hex2[5],Output,PIN_AF18,4A,B4A_N0,PIN_AF18,2.5 V,,,,,,,,,,,,,
+Hex2[4],Output,PIN_Y18,4A,B4A_N0,PIN_Y18,2.5 V,,,,,,,,,,,,,
+Hex2[3],Output,PIN_Y17,4A,B4A_N0,PIN_Y17,2.5 V,,,,,,,,,,,,,
+Hex2[2],Output,PIN_AA18,4A,B4A_N0,PIN_AA18,2.5 V,,,,,,,,,,,,,
+Hex2[1],Output,PIN_AB17,4A,B4A_N0,PIN_AB17,2.5 V,,,,,,,,,,,,,
+Hex2[0],Output,PIN_AA21,4A,B4A_N0,PIN_AA21,2.5 V,,,,,,,,,,,,,
+Hex3[6],Output,PIN_AD20,4A,B4A_N0,PIN_AD20,2.5 V,,,,,,,,,,,,,
+Hex3[5],Output,PIN_AA19,4A,B4A_N0,PIN_AA19,2.5 V,,,,,,,,,,,,,
+Hex3[4],Output,PIN_AC20,4A,B4A_N0,PIN_AC20,2.5 V,,,,,,,,,,,,,
+Hex3[3],Output,PIN_AA20,4A,B4A_N0,PIN_AA20,2.5 V,,,,,,,,,,,,,
+Hex3[2],Output,PIN_AD19,4A,B4A_N0,PIN_AD19,2.5 V,,,,,,,,,,,,,
+Hex3[1],Output,PIN_W19,4A,B4A_N0,PIN_W19,2.5 V,,,,,,,,,,,,,
+Hex3[0],Output,PIN_Y19,4A,B4A_N0,PIN_Y19,2.5 V,,,,,,,,,,,,,
+Hex4[6],Output,PIN_AH22,4A,B4A_N0,PIN_AH22,2.5 V,,,,,,,,,,,,,
+Hex4[5],Output,PIN_AF23,4A,B4A_N0,PIN_AF23,2.5 V,,,,,,,,,,,,,
+Hex4[4],Output,PIN_AG23,4A,B4A_N0,PIN_AG23,2.5 V,,,,,,,,,,,,,
+Hex4[3],Output,PIN_AE23,4A,B4A_N0,PIN_AE23,2.5 V,,,,,,,,,,,,,
+Hex4[2],Output,PIN_AE22,4A,B4A_N0,PIN_AE22,2.5 V,,,,,,,,,,,,,
+Hex4[1],Output,PIN_AG22,4A,B4A_N0,PIN_AG22,2.5 V,,,,,,,,,,,,,
+Hex4[0],Output,PIN_AD21,4A,B4A_N0,PIN_AD21,2.5 V,,,,,,,,,,,,,
+Hex5[6],Output,PIN_AB21,4A,B4A_N0,PIN_AB21,2.5 V,,,,,,,,,,,,,
+Hex5[5],Output,PIN_AF19,4A,B4A_N0,PIN_AF19,2.5 V,,,,,,,,,,,,,
+Hex5[4],Output,PIN_AE19,4A,B4A_N0,PIN_AE19,2.5 V,,,,,,,,,,,,,
+Hex5[3],Output,PIN_AG20,4A,B4A_N0,PIN_AG20,2.5 V,,,,,,,,,,,,,
+Hex5[2],Output,PIN_AF20,4A,B4A_N0,PIN_AF20,2.5 V,,,,,,,,,,,,,
+Hex5[1],Output,PIN_AG21,4A,B4A_N0,PIN_AG21,2.5 V,,,,,,,,,,,,,
+Hex5[0],Output,PIN_AF21,4A,B4A_N0,PIN_AF21,2.5 V,,,,,,,,,,,,,
+KEY0,Input,PIN_AJ4,3B,B3B_N0,PIN_AJ4,2.5 V,,,,,,,,,,,,,
+KEY1,Input,PIN_AK4,3B,B3B_N0,PIN_AK4,2.5 V,,,,,,,,,,,,,
+KEY2,Input,PIN_AA14,3B,B3B_N0,PIN_AA14,2.5 V,,,,,,,,,,,,,
+KEY3,Input,PIN_AA15,3B,B3B_N0,PIN_AA15,2.5 V,,,,,,,,,,,,,
+LEDR[9],Output,PIN_AC22,4A,B4A_N0,PIN_AC22,2.5 V,,,,,,,,,,,,,
+LEDR[8],Output,PIN_AB22,5A,B5A_N0,PIN_AB22,2.5 V,,,,,,,,,,,,,
+LEDR[7],Output,PIN_AF24,4A,B4A_N0,PIN_AF24,2.5 V,,,,,,,,,,,,,
+LEDR[6],Output,PIN_AE24,4A,B4A_N0,PIN_AE24,2.5 V,,,,,,,,,,,,,
+LEDR[5],Output,PIN_AF25,4A,B4A_N0,PIN_AF25,2.5 V,,,,,,,,,,,,,
+LEDR[4],Output,PIN_AG25,4A,B4A_N0,PIN_AG25,2.5 V,,,,,,,,,,,,,
+LEDR[3],Output,PIN_AD24,4A,B4A_N0,PIN_AD24,2.5 V,,,,,,,,,,,,,
+LEDR[2],Output,PIN_AC23,4A,B4A_N0,PIN_AC23,2.5 V,,,,,,,,,,,,,
+LEDR[1],Output,PIN_AB23,5A,B5A_N0,PIN_AB23,2.5 V,,,,,,,,,,,,,
+LEDR[0],Output,PIN_AA24,5A,B5A_N0,PIN_AA24,2.5 V,,,,,,,,,,,,,
+PWM_out,Output,PIN_AK3,3B,B3B_N0,PIN_AK3,2.5 V,,,,,,,,,,,,,
+RX_bit,Input,PIN_W15,3B,B3B_N0,PIN_W15,2.5 V,,,,,,,,,,,,,
+Switches[9],Input,PIN_AA30,5B,B5B_N0,PIN_AA30,2.5 V,,,,,,,,,,,,,
+Switches[8],Input,PIN_AC29,5B,B5B_N0,PIN_AC29,2.5 V,,,,,,,,,,,,,
+Switches[7],Input,PIN_AD30,5B,B5B_N0,PIN_AD30,2.5 V,,,,,,,,,,,,,
+Switches[6],Input,PIN_AC28,5B,B5B_N0,PIN_AC28,2.5 V,,,,,,,,,,,,,
+Switches[5],Input,PIN_V25,5B,B5B_N0,PIN_V25,2.5 V,,,,,,,,,,,,,
+Switches[4],Input,PIN_W25,5B,B5B_N0,PIN_W25,2.5 V,,,,,,,,,,,,,
+Switches[3],Input,PIN_AC30,5B,B5B_N0,PIN_AC30,2.5 V,,,,,,,,,,,,,
+Switches[2],Input,PIN_AB28,5B,B5B_N0,PIN_AB28,2.5 V,,,,,,,,,,,,,
+Switches[1],Input,PIN_Y27,5B,B5B_N0,PIN_Y27,2.5 V,,,,,,,,,,,,,
+Switches[0],Input,PIN_AB30,5B,B5B_N0,PIN_AB30,2.5 V,,,,,,,,,,,,,
+TX_bit,Output,PIN_AK2,3B,B3B_N0,PIN_AK2,2.5 V,,,,,,,,,,,,,
