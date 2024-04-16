@@ -3,6 +3,7 @@
 ## Overview
 This project presents the implementation of a Pipelined MIPS CPU with 5 stages, specifically designed and tested for the Altera DE10 FPGA board. The CPU is designed using VHDL and integrates core MIPS features along with GPIO, Basic Timer, and Interrupt Controller.
 Final GUI with uart demonstration video:
+
 https://github.com/talshva/CPU-Final-Project/assets/82408347/68e29369-88cc-459a-90d7-bffb370d257c
 
 ## Table of Contents
